@@ -1,0 +1,5 @@
+exports[`test renders something 1`] = `
+<div>
+  React simple starter
+</div>
+`;
